@@ -11,8 +11,8 @@ h2 {
     font-size: 40px;
 }
 
-.n-color {
-    color: orange;
+.name-color {
+    color: rgb(229, 139, 154);
 }
 
 .flexible-container {
@@ -31,7 +31,7 @@ h2 {
 
 .link-button {
     text-decoration: none;
-    background-color: orange;
+    background-color: rgb(229, 139, 154);
     padding: 10px 40px;
     border-radius: 5px;
     color: white;
@@ -71,12 +71,13 @@ h2 {
 }
 
 #baby-web-developer {
-    border-left: 7px solid blue;
+    border-left: 7px solid pink;
 }
 
-footer p {
+footer h3 {
     text-align: center;
-    background-color: cadetblue;
+    background-color: pink;
     padding: 10px;
+    margin: 0;
 
 }
